@@ -17,7 +17,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-
 class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => _HomePageState();
@@ -27,8 +26,9 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Happen App'),),
-      body: Text('Fuck you!'),
+      appBar: AppBar(
+        title: Text('Tesldkfj'),
+      ),
     );
   }
 }
