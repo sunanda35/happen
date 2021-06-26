@@ -1,6 +1,6 @@
 # happen
 
-A new Flutter project.
+It's a flutter project, mixture of original happen and tinder application.
 
 ## Getting Started
 
